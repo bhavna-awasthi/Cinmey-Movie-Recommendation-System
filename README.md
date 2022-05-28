@@ -31,9 +31,5 @@ To run
 <code>streamlit run main.py
 </code>
 </pre>
-Now open your browser and go to this address
-<pre>
-<code>http://192.168.1.3:8501/
-</code>
-</pre>
+
 Thank you for visiting my repository.
